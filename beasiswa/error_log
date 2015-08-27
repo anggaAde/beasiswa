@@ -1,0 +1,2 @@
+[23-Feb-2015 07:33:06 UTC] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/ppbeasiswa/public_html/application/controllers/login.php on line 17
+[23-Feb-2015 07:33:08 UTC] PHP Fatal error:  Call to a member function sess_destroy() on a non-object in /home/ppbeasiswa/public_html/application/controllers/login.php on line 17

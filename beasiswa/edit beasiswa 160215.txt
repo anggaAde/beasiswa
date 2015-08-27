@@ -1,0 +1,31 @@
+**{beasiswa}**
+laporan admin(6)
+edit data pendaftar(3a)
+cetak data buat pendaftar(3b)
+redirect bagi yang sudah daftar ke laporan(4)
+hal. awal
+--pengumuman buka tutup(2)
+--link ke student portal(9)
+cek jenis beasiswa(8)
+cek running smuanya(10)
+--proses daftar(1)
+--proses pelaporan admin(7)
+--proses pelaporan mhs(5)
+cek k bu indah(11)
+
+1.
+login oke, input data normal ok abnormal ok, ganti stuktur database, ganti code css, ganti code form permission
+c_inputdata.php
+v_formdaftar.php
+style.css
+2.
+oke
+v_login.php
+3a.
+set session data nrp langsung muncul d form ok.total penghasilan ortu IPK ok.
+relogin pendaftar setelah daftar (edit data) ok.
+c_login.php
+v_formedit.php
+c_editdata.php
+3b.4.
+lewat, tunggu orderan
